@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+lightgbm
+xgboost
+torch
+torchvision
+torchaudio
+statsmodels
+pmdarima
+requests
+fredapi
+openpyxl
+
+
